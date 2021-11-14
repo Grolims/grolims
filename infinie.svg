@@ -1,8 +1,8 @@
 
-<svg version="1.1" width="320" height="320" viewBox="0 0 320 320" fill="none" stroke="#000" stroke-linecap="round"
+<svg version="1.1" width="460" height="320" viewBox="0 0 320 320" fill="none" stroke="#000" stroke-linecap="round"
      xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
    <text x="122" y="165"   font-family="roboto"
-        font-size="18" stroke="#8187dc" fill="#8187dc">Welcome</text>
+        font-size="18" stroke="#8187dc" fill="#8187dc">Bienvenue</text>
   <defs>
     <path id="r1" stroke="#757bc8">
       <animate id="p1" attributeName="d" values="m20,20l0,0 0,0;m130,110l30,-17 30,17;m130,60l30,-17 30,17;m160,20l0,0 0,0" dur="6s" repeatCount="indefinite"/>
