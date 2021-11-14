@@ -1,4 +1,5 @@
-### Hi there 👋
+Hello :)
 
 ![Alt text](pres.svg)
-<img src="./pres.svg">
+
+Etudiant en ingénieries des médias
